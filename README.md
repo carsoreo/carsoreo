@@ -14,7 +14,7 @@
 I debug enterprise endpoint-management deployments for Fortune 100 companies and U.S. government agencies — figuring out why things break at scale, then making sure they don't break the same way twice. Off the clock I build small, well-documented tools for the people around me.
 
 ```yaml
-now:      Tanium — full-platform support, deployment → config → root cause   # 93%+ CSAT
+now:      Tanium — full-platform support, deployment → config → root cause
 before:   Tanium TAM intern (PowerShell automation) · Cisco technical consulting co-op
 building: a Discord + GroupMe bot that runs my fantasy football league 24/7
 open_to:  new, challenging roles in tech
