@@ -24,7 +24,7 @@ open_to:  new, challenging roles in tech
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[ff-discord-bot](https://github.com/carsoreo/ff-discord-bot)** | Syncs a Sleeper fantasy league into Discord: per-team channels, live transactions, injury news, slash-command trade block, weekly GroupMe recaps. Semver'd, tested, runs 24/7 on Oracle Cloud. | Node.js · discord.js · Sleeper API |
+| **[move-the-chains](https://github.com/carsoreo/move-the-chains)** | Syncs a Sleeper fantasy league into Discord: per-team channels, live transactions, injury news, slash-command trade block, weekly GroupMe recaps. Semver'd, tested, runs 24/7 on Oracle Cloud. | Node.js · discord.js · Sleeper API |
 | **[carsoreo.github.io](https://github.com/carsoreo/carsoreo.github.io)** | Hand-built resume site with a documented design system, measured WCAG contrast, light/dark themes and zero frameworks. | HTML · CSS · JS |
 | **[photography](https://github.com/carsoreo/photography)** | Gallery for 85+ wildlife, landscape and street photos, with a full-screen viewer, EXIF-driven captions and a pipeline that resizes and strips GPS data. | HTML · JS · Python · Darktable |
 | **DataMatch** *(NC State × SAS)* | Entity-resolution web app: finds duplicate records, clusters them with K-means, scores match confidence, and gives data stewards an audited review UI. 5-person senior design team. | React · Flask · MySQL · Docker |
